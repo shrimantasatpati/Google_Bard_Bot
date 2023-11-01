@@ -11,6 +11,7 @@ Let's embark on a journey to set up and launch the project on your local machine
 Before we dive in, ensure you have the following prerequisites:
 
 - Python 3.11 or newer 🐍
+- IDE (Visual Studio Code)
 
 ### Installation 🛠️
 
