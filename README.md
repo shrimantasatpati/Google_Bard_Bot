@@ -1,6 +1,6 @@
 # Google_Bard_Bot 
 
-Welcome to the **Google Bard API** project! This repository contains a **FastAPI** wrapper designed to seamlessly interact with 🤖 **Google Bard**, a remarkable conversational AI developed by Google. The project encompasses a comprehensive library for effortlessly dispatching requests to Google Bard, along with a streamlined API server that empowers you to interact with Bard through a REST API. This exceptional fusion of resources facilitates the integration of Bard's capabilities into your applications or services via a single, straightforward API endpoint.
+Welcome to the **Google Bard Bot** project! A chat interface in Gradio seamlessly interact with 🤖 **Google Bard**, a remarkable conversational AI developed by Google.
 
 ## Getting Started 🚀
 
@@ -10,8 +10,7 @@ Let's embark on a journey to set up and launch the project on your local machine
 
 Before we dive in, ensure you have the following prerequisites:
 
-- Python 3.9 or newer 🐍
-- Docker 🐳
+- Python 3.11 or newer 🐍
 
 ### Installation 🛠️
 
@@ -30,11 +29,7 @@ Before we dive in, ensure you have the following prerequisites:
     pip install -r requirements.txt
     ```
 
-3. Launch the application using Uvicorn:
-
-    ```sh
-    uvicorn main:app --reload --port 8000
-    ```
+3. Launch the application on localhost:
 
     Your application should now be live at `http://localhost:8000`.
 
