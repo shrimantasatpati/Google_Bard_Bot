@@ -16,15 +16,17 @@ Before we dive in, ensure you have the following prerequisites:
 ### Installation 🛠️
 
 1. Begin by cloning the repository:
+   '''
     git clone https://github.com/shrimantasatpati/Google_Bard_Bot.git
     cd Google_Bard_Bot
+   '''
 
-2. Create a virtual environment and install the necessary packages:
+3. Create a virtual environment and install the necessary packages:
     python3 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
 
-3. Launch the application on localhost:
+4. Launch the application on localhost:
    Run the following command: python bardtesten.py in the terminal/console.
 
 Your application should now be live at `http://localhost:8000`.
