@@ -46,6 +46,6 @@ The code presented in this repository is generously licensed for unrestricted us
 A special thanks to:
 
 - Google for creating the visionary Google Bard
-- FastAPI for providing an elegant and efficient web framework
+- @Shridipta Satpati
 
 Your participation and contributions are truly appreciated! Happy coding! 🎉
